@@ -6,6 +6,17 @@ ProseIQ is an AI-powered communication analysis platform that evaluates written 
 
 ---
 
+## Live Backend
+
+**Backend API:**  
+https://proseiq-backend.onrender.com
+
+**Interactive API Documentation:**  
+https://proseiq-backend.onrender.com/docs
+
+**Health Check:**  
+https://proseiq-backend.onrender.com/healths
+
 ## Overview
 
 ProseIQ analyzes an email and generates a communication score based on six core dimensions:
