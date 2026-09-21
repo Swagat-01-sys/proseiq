@@ -17,6 +17,9 @@ https://proseiq-backend.onrender.com/docs
 **Health Check:**  
 https://proseiq-backend.onrender.com/healths
 
+**live app Url**
+https://email-analyser-lyart.vercel.app/
+
 ## Overview
 
 ProseIQ analyzes an email and generates a communication score based on six core dimensions:
